@@ -54,7 +54,7 @@ body {
 }
 .card .content .des p{
    color: #fff;
-   font-size: 1em;
+   font-size: 0.9em;
    line-height: 1.5em;
    justify-content: flex-start;
 }
@@ -98,7 +98,7 @@ body {
     transform: translate(-20px, -110px) rotate(-15deg);
 }
 .card:hover .content .product-name p{
-   transform: translate(-50px, -95px);
+   transform: translate(-40px, -95px);
 }
 .card:hover .content .price{
    transform: translate(-113px, -95px);
